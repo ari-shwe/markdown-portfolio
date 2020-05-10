@@ -3,4 +3,7 @@
 - Witty comments
 - Tests and trials
 
+## Collaborators
+- Ari Shwe
+
 ###### signing off!
