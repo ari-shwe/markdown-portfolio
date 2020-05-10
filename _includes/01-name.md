@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Ari Shwe's repository
+## Content overview
+- Witty comments
+- Tests and trials
+
+###### signing off!
